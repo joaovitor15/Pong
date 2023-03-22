@@ -10,7 +10,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://orlandoarcadegamerentals.com/wp-content/uploads/2020/06/atari-pong-arcade-1920x1080-3.jpgvitrinedev)
 
 ## Detalhes do projeto
 #vitrinedev
