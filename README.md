@@ -11,6 +11,7 @@ Rápida descrição do objetivo de fazer esse projeto
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://orlandoarcadegamerentals.com/wp-content/uploads/2020/06/atari-pong-arcade-1920x1080-3.jpg#vitrinedev)
+#vitrinedev
 
 ## Detalhes do projeto
 #vitrinedev
